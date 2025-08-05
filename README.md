@@ -1,3 +1,3 @@
 Live demo
 
-https://https://userx96.github.io/lyric
+https://userx96.github.io/lyric
